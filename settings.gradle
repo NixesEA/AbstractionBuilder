@@ -1,0 +1,6 @@
+include ':SomeAdv'
+include ':abstractbuilder'
+include ':facebookdeeplink'
+include ':gdpr'
+include ':app'
+rootProject.name = "AbstractionBuilder"
